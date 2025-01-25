@@ -1,0 +1,10 @@
+{
+    "2025-01-25": {
+        "morning-inhalation": true,
+        "morning-blood-pressure": true,
+        "morning-allergy": true,
+        "evening-inhalation": true,
+        "evening-blood-pressure": true,
+        "evening-allergy": true
+    }
+}
